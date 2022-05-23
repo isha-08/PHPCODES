@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="item.css"?>
+<itemdetails>
+  <item>
+    <itemname>Sugar</itemname>
+    <itemprice>100</itemprice>
+    <quantity>2</quantity>
+  </item>
+
+  <item>
+    <itemname>Salt</itemname>
+    <itemprice>80</itemprice>
+    <quantity>1</quantity>
+  </item>
+
+  <item>
+    <itemname>Rice</itemname>
+    <itemprice>56</itemprice>
+    <quantity>30</quantity>
+  </item>
+
+  <item>
+    <itemname>Handwash</itemname>
+    <itemprice>90</itemprice>
+    <quantity>1</quantity>
+  </item>
+
+  <item>
+    <itemname>Hair Shampoo</itemname>
+    <itemprice>145</itemprice>
+    <quantity>4</quantity>
+  </item>
+</itemdetails>

@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="item.css"?>
+<itemdetails><item><itemname>sugar</itemname><itemprice>100</itemprice><quantity>2</quantity></item><item><itemname>salt</itemname><itemprice>80</itemprice><quantity>1</quantity></item><item><itemname>rice</itemname><itemprice>56</itemprice><quantity>30</quantity></item><item><itemname>handwash</itemname><itemprice>90</itemprice><quantity>1</quantity></item><item><itemname>hair shampoo</itemname><itemprice>145</itemprice><quantity>4</quantity></item></itemdetails>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MovieInfo>
+  <movie type="Classical">
+    <MovieNo>1</MovieNo>
+    <MovieTitle>Simba</MovieTitle>
+    <ActorName>Ranveer Singh</ActorName>
+    <ReleaseYear>2021</ReleaseYear>
+  </movie>
+  <movie type="Classical">
+    <MovieNo>2</MovieNo>
+    <MovieTitle>Fast and Furious</MovieTitle>
+    <ActorName>Vin Diesel</ActorName>
+    <ReleaseYear>2022</ReleaseYear>
+  </movie>
+  <movie type="Horror">
+    <MovieNo>3</MovieNo>
+    <MovieTitle>X</MovieTitle>
+    <ActorName>Jenna Ortega</ActorName>
+    <ReleaseYear>2022</ReleaseYear>
+  </movie>
+  <movie type="Horror">
+    <MovieNo>4</MovieNo>
+    <MovieTitle>Annabelle</MovieTitle>
+    <ActorName>Unknown</ActorName>
+    <ReleaseYear>2022</ReleaseYear>
+  </movie>
+  <movie type="Action">
+    <MovieNo>5</MovieNo>
+    <MovieTitle>Shole</MovieTitle>
+    <ActorName>Dharmendra</ActorName>
+    <ReleaseYear>1990</ReleaseYear>
+  </movie>
+  <movie type="Action">
+    <MovieNo>6</MovieNo>
+    <MovieTitle>Batala House</MovieTitle>
+    <ActorName>john</ActorName>
+    <ReleaseYear>2020</ReleaseYear>
+  </movie>
+</MovieInfo>
