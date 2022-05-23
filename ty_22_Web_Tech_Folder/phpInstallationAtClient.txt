@@ -1,0 +1,2 @@
+yum install php-xml php-cli php-simplexml php-xmlrpc.x86_64 php-mbstring.x86_64 php-bcmath.x86_64 php-devel.x86_64 php-pgsql.x86_64 php.x86_64 
+

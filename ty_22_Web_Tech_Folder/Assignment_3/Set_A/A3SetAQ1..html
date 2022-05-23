@@ -1,0 +1,35 @@
+<html>
+<head>
+<script language="javascript">
+	function disp_prompt()
+	{
+		var p=prompt("Please Start Preparing For Your Exams ","Isha!")
+		if(p!=null && p!="")
+		{
+			document.write("Hello, " + p + " How are you feeling today?")
+		}
+	}
+	function disp_confirm()
+	{
+		var c=confirm("Press any button")
+		if(c==true)
+		{
+			document.write("You have pressed Okay!")
+		}
+		else
+		{
+			document.write("You have pressed Cancel!")
+		}
+	}
+	function show_alert()
+	{
+		alert("Exams are near, have you started preparing for??")
+	}
+</script>
+</head>
+<body>
+	<input type="button" onclick="disp_prompt()" value="Display the prompt box">
+	<input type="button" onclick="disp_confirm()" value="Display the confirm box">
+	<input type="button" onclick="show_alert()" value="Display the alert box">
+</body>
+</html>

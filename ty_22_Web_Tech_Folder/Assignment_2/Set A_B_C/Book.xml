@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Book_Info>
+  <Book category="Application Programming">
+    <Book_No>1</Book_No>
+    <Book_Name>Java</Book_Name>
+    <Author_Name>Balguru Swami</Author_Name>
+    <Price>250</Price>
+    <Year>2006</Year>
+  </Book>
+  <Book category="Basic Programming">
+    <Book_No>2</Book_No>
+    <Book_Name>C</Book_Name>
+    <Author_Name>Denis Ritchie</Author_Name>
+    <Price>500</Price>
+    <Year>1971</Year>
+  </Book>
+</Book_Info>

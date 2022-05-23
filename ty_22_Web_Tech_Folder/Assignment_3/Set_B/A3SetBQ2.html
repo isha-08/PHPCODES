@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		<script>
+		$(document).ready(function(){
+      			$("#button1").click(function(){
+         		$("img").before("<b> Text Before Image </b>");
+       		});
+
+      			$("#button2").click(function(){
+         		$("img").after("<b> Text After Image </b>");
+       		});
+ 	 });
+	</script>
+	</head>
+	<body>
+	<img src="A3SetBQ2.jpeg">
+	<div style="padding-left:300px;">
+	<button id="button1">Insert before</button>
+	<button id="button2">Insert after</button>
+	</div>
+	</body>
+</html>
+

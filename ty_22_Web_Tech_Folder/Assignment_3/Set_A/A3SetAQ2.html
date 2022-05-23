@@ -1,0 +1,31 @@
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+			
+			
+		$(document).ready(function(){
+      			$("#bt1").click(function(){
+         		var paragraph = prompt("Please enter paragraph element", "ParagraphItem");
+			$("h2").append("<b> " + paragraph +" </b>");
+       		});
+
+      		$("#bt2").click(function(){
+         		var list = prompt("Please enter list element", "ListItem ");
+			$("ol").append("<li>"+ list +"</li>");
+       		});
+ 	 });
+</script>
+</head>
+<body>
+	<h2>The name of the Student is: </h2>
+	<h3>Following are the subjects that she studies: </h3>
+	<ol>
+		<li>Operating Systems</li>
+		<li>Web Technologies</li>
+		<li>Software Testing Tools</li>
+	</ol>
+	<button id="bt1">Append the Paragraph</button>
+	<button id="bt2">Append the Ordered List</button>
+</body>
+</html>

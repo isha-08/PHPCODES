@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movie>
+  <Category type="Classical">
+    <MovieTitle>Katyaar Kaaljaat Ghusli</MovieTitle>
+    <ActorName>Subodh Bhave</ActorName>
+    <ReleaseYear>2018</ReleaseYear>
+  </Category>
+  <Category type="Classical">
+    <MovieTitle>Natasamraat</MovieTitle>
+    <ActorName>Nana Patekar</ActorName>
+    <ReleaseYear>2017</ReleaseYear>
+  </Category>
+  <Category type="Horror">
+    <MovieTitle>Bhoot</MovieTitle>
+    <ActorName>Vicky Kaushal</ActorName>
+    <ReleaseYear>2016</ReleaseYear>
+  </Category>
+  <Category type="Horror">
+    <MovieTitle>Talaash</MovieTitle>
+    <ActorName>Kareena Kapoor Khan</ActorName>
+    <ReleaseYear>2015</ReleaseYear>
+  </Category>
+  <Category type="Action">
+    <MovieTitle>Fast And Furious</MovieTitle>
+    <ActorName>Vin Diesel</ActorName>
+    <ReleaseYear>2014</ReleaseYear>
+  </Category>
+  <Category type="Action">
+    <MovieTitle>Mission Impossible</MovieTitle>
+    <ActorName>Tom Cruise</ActorName>
+    <ReleaseYear>2013</ReleaseYear>
+  </Category>
+</Movie>
