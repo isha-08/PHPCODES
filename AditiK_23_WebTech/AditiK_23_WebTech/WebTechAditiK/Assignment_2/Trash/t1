@@ -1,0 +1,25 @@
+<?php
+	$doc = new DOMDocument("1.0", UTF-8");
+	$doc->formatOutput = true;	
+	
+	$BookInfo = $doc->createElement("BookInfo");
+	$doc->appendChild($BookInfo);
+	
+	$book = $doc->createElement();
+	$BookInfo->appenChild($book);
+	
+	$bookno = $doc->createElement("Bookno");
+	$book->appendChild($bookno);
+	
+	$bookname = $doc->createElement("Bookname");
+	$book->appendChild($bookname);
+
+	$authorname = $doc->createElement("Authorname");
+	$book->appendChild($authorname);
+	
+	$price = $doc->createElement("Price");
+	$book->appendChild($price);
+
+	$year = $doc->createElement("Year");
+	$book->appendChild($year);
+?>

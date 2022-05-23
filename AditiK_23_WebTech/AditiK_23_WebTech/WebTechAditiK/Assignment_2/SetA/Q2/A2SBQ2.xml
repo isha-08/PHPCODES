@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="item.css"?>
+<itemdetails>
+	<item>
+		<itemname>pencil</itemname>
+		<itemprice>10</itemprice>
+		<quantity>2</quantity>
+	</item>
+	<item>
+		<itemname>pen</itemname>
+		<itemprice>40</itemprice>
+		<quantity>1</quantity>
+	</item>
+	<item>
+		<itemname>scale</itemname>
+		<itemprice>20</itemprice>
+		<quantity>3</quantity>
+	</item>
+	<item>
+		<itemname>Bottle</itemname>
+		<itemprice>90</itemprice>
+		<quantity>1</quantity>
+	</item>
+	<item>
+		<itemname>Pouch</itemname>
+		<itemprice>100</itemprice>
+		<quantity>4</quantity>
+	</item>
+</itemdetails>

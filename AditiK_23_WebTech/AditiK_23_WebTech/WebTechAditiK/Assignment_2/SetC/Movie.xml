@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movie>
+  <Category type="Classical">
+    <MovieTitle>K3G</MovieTitle>
+    <ActorName>Hritik Roshan</ActorName>
+    <ReleaseYear>1980</ReleaseYear>
+  </Category>
+  <Category type="Classical">
+    <MovieTitle>Padosan</MovieTitle>
+    <ActorName>Kishor Kumar</ActorName>
+    <ReleaseYear>1960</ReleaseYear>
+  </Category>
+  <Category type="Horror">
+    <MovieTitle>Ghost</MovieTitle>
+    <ActorName>Akshay Kumar</ActorName>
+    <ReleaseYear>2002</ReleaseYear>
+  </Category>
+  <Category type="Horror">
+    <MovieTitle>Bhootnaath</MovieTitle>
+    <ActorName>Amitabh Bacchan</ActorName>
+    <ReleaseYear>2010</ReleaseYear>
+  </Category>
+  <Category type="Action">
+    <MovieTitle>Baaghi</MovieTitle>
+    <ActorName>Tiger Shroff</ActorName>
+    <ReleaseYear>2012</ReleaseYear>
+  </Category>
+  <Category type="Action">
+    <MovieTitle>Rowdy Rathod</MovieTitle>
+    <ActorName>Akshay Kumar</ActorName>
+    <ReleaseYear>2015</ReleaseYear>
+  </Category>
+</Movie>
