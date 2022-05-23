@@ -8,12 +8,12 @@
 			var password=document.Membership.password.value;        
 			if (name==null || name=="")
 			{  
-				alert("Name column must be filled");  
+				alert("Name column must be filled and name must be a characte value not a numeric value!");  
 				return false;  
 			}
-			else if(password.length<=8)
+			else if(password.length<=8 && password.length==0)
 			{  
-				alert("Password must be at least 8 characters long.");  
+				alert("Password must be at least 8 characters long and cannot be empty.");  
 				return false;  
 			}  
 			else
